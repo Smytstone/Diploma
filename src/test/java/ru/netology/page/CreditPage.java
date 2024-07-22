@@ -63,6 +63,5 @@ public class CreditPage {
 
     public void checkAllFieldsAreRequired() {
         $$(".input__sub").shouldHave(CollectionCondition.size(5));
-
     }
 }
