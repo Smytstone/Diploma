@@ -13,7 +13,8 @@
 1. Добавить документацию к проекту
 2. Добавить тестовые метки к селекторам, для удобного написания автотестов. 
 
-![Allure](<Allure 1.png>)
-![Allure](<Allure 2.png>)
-![Allure](<Allure 3.png>)
-![Allure](<Allure 4.png>)
+![allure 1](https://github.com/user-attachments/assets/03d36338-e377-47e9-838c-974ae2ad5cea)
+![allure 2](https://github.com/user-attachments/assets/247f1d04-e942-4482-986b-12c665841fe7)
+![allure 3](https://github.com/user-attachments/assets/537d79f2-cbbd-4f81-90f7-75f1aeb48022)
+![allure 4](https://github.com/user-attachments/assets/ddf79d5e-c9b8-49a1-87a1-16a0cf99f98e)
+![allure 5](https://github.com/user-attachments/assets/e4d46eec-ef23-45aa-bd43-e7d54d2fd91d)
