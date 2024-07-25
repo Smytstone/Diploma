@@ -42,4 +42,7 @@ test {
     systemProperty 'selenide.headless', System.getProperty('headless')
     // свойство chromeoptions.prefs используется для задания настроек браузера в проектах на основе Selenide, выключаем менеджер паролей
     systemProperty 'chromeoptions.prefs', System.getProperty('chromeoptions.prefs', "profile.password_manager_leak_detection=false")
+    systemProperty 'url', System.getProperty('url', 'jdbc:mysql://localhost:3306/app')
+    systemProperty 'user', System.getProperty('user', "app")
+    systemProperty 'password', System.getProperty('password', "pass")
 }

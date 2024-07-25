@@ -43,22 +43,22 @@ public class CreditPage {
     }
 
     public void checkInvalidFormat() {
-        $(".input__sub").shouldBe(visible).shouldHave(text("Неверный формат"), Duration.ofSeconds(15));
+        $(".input__sub").shouldBe(visible).shouldHave(text("Неверный формат"));
     }
 
     public void checkInvalidCardValidityPeriod() {
         $(".input__sub").shouldBe(visible)
-                .shouldHave(text("Неверно указан срок действия карты"), Duration.ofSeconds(15));
+                .shouldHave(text("Неверно указан срок действия карты"));
     }
 
     public void checkCardExpired() {
         $(".input__sub").shouldBe(visible)
-                .shouldHave(text("Истёк срок действия карты"), Duration.ofSeconds(15));
+                .shouldHave(text("Истёк срок действия карты"));
     }
 
     public void checkEmptyField() {
         $(".input__sub").shouldBe(visible)
-                .shouldHave(text("Поле обязательно для заполнения"), Duration.ofSeconds(15));
+                .shouldHave(text("Поле обязательно для заполнения"));
     }
 
     public void checkAllFieldsAreRequired() {
