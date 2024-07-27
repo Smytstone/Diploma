@@ -27,10 +27,10 @@ public class CreditPaymentTest {
         open("http://localhost:8080");
     }
 
-//    @AfterEach
-//    void tearDown() {
-//        DataBase.clearTables();
-//    }
+    @AfterEach
+    void tearDown() {
+        DataBase.clearTables();
+    }
 
     @AfterAll
     static void tearDownAll() {

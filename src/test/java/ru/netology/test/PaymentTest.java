@@ -27,10 +27,10 @@ public class PaymentTest {
         SelenideLogger.removeListener("allure");
     }
 
-//    @AfterEach
-//    void tearDown() {
-//        DataBase.clearTables();
-//    }
+    @AfterEach
+    void tearDown() {
+        DataBase.clearTables();
+    }
 
     @Test
     void shouldPayWithApprovedDebitCard() {
@@ -76,7 +76,7 @@ public class PaymentTest {
                 invalidCard(15), getValidMonth(2), plusYears(3), getValidHolderName(), getValidCVC());
         var paymentPage = mainPage.paymentPage();
         paymentPage.getFillCardDetails(card);
-        paymentPage.invalidPaymentDebitCard();
+        paymentPage.checkInvalidFormat();
     }
 
     @Test
