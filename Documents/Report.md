@@ -13,8 +13,10 @@
 1. Добавить документацию к проекту
 2. Добавить тестовые метки к селекторам, для удобного написания автотестов. 
 
-![allure 1](https://github.com/user-attachments/assets/03d36338-e377-47e9-838c-974ae2ad5cea)
-![allure 2](https://github.com/user-attachments/assets/247f1d04-e942-4482-986b-12c665841fe7)
-![allure 3](https://github.com/user-attachments/assets/537d79f2-cbbd-4f81-90f7-75f1aeb48022)
-![allure 4](https://github.com/user-attachments/assets/ddf79d5e-c9b8-49a1-87a1-16a0cf99f98e)
-![allure 5](https://github.com/user-attachments/assets/e4d46eec-ef23-45aa-bd43-e7d54d2fd91d)
+
+![allure 1](https://github.com/user-attachments/assets/16025d25-11a3-4ba0-b9a4-5fce1c6c011a)
+![allure 2](https://github.com/user-attachments/assets/418e8ffd-876f-4b7e-a3be-19736e711ce5)
+![allure 3](https://github.com/user-attachments/assets/44e4af1a-31be-4304-b124-494fec0739e3)
+![allure 4](https://github.com/user-attachments/assets/ebd6f035-50c0-48b1-8f65-de66b5c0382d)
+![allure 5](https://github.com/user-attachments/assets/7563b715-2fe4-4170-940d-63f38c4927bc)
+![allure 6](https://github.com/user-attachments/assets/0b9f016d-a55e-41a7-b0ef-ab793502543c)
